@@ -1,0 +1,29 @@
+.input-container {
+  width: 100%;
+  max-width: 300px;
+  margin-right: 0.5rem;
+
+  .input-content {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 5px;
+    background-color: #ebecf0;
+    padding: 0.5rem 0;
+    opacity: 0.8;
+
+    button {
+      cursor: pointer;
+      background: none;
+      width: 100%;
+      padding: 0.5rem;
+      border: none;
+      margin: auto;
+      text-align: left;
+      font-size: 14px;
+    }
+
+    &:hover {
+      background-color: #ddd;
+    }
+  }
+}
