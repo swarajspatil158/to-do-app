@@ -6,8 +6,8 @@
 
 
 ## Demo
-![demo](./src/assets/demo.gif)
 [![To-do-App](https://img.shields.io/badge/Tryit-(here)-blue.svg)](https://to-do-app-gold.vercel.app/)
+![demo](./src/assets/demo.gif)
 
 
   
