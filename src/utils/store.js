@@ -6,10 +6,6 @@ const data = {
         cards: [
           {
             id: "1",
-            title: "hoisting and setTimeout in JS",
-          },
-          {
-            id: "2",
             title: "vim practice",
           },
         ],
@@ -17,12 +13,7 @@ const data = {
       "list-2": {
         id: "list-2",
         title: "In Progress",
-        cards: [
-          {
-            id: "1",
-            title: "c++ pointers",
-          },
-        ],
+        cards: [],
       },
       "list-3": {
         id: "list-3",
