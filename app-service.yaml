@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: to-do-app-service
+spec:
+  selector:
+    app: to-do-app
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 3000
+  type: LoadBalancer
